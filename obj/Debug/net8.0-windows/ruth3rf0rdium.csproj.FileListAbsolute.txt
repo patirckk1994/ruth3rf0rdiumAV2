@@ -1,0 +1,16 @@
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\obj\Debug\net8.0-windows\ruth3rf0rdium.Form1.resources
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\obj\Debug\net8.0-windows\ruth3rf0rdium.csproj.GenerateResource.cache
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\obj\Debug\net8.0-windows\ruth3rf0rdium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\obj\Debug\net8.0-windows\ruth3rf0rdium.AssemblyInfoInputs.cache
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\obj\Debug\net8.0-windows\ruth3rf0rdium.AssemblyInfo.cs
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\obj\Debug\net8.0-windows\ruth3rf0rdium.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\bin\Debug\net8.0-windows\ruth3rf0rdium.exe
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\bin\Debug\net8.0-windows\ruth3rf0rdium.deps.json
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\bin\Debug\net8.0-windows\ruth3rf0rdium.runtimeconfig.json
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\bin\Debug\net8.0-windows\ruth3rf0rdium.dll
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\bin\Debug\net8.0-windows\ruth3rf0rdium.pdb
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\obj\Debug\net8.0-windows\ruth3rf0rdium.dll
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\obj\Debug\net8.0-windows\refint\ruth3rf0rdium.dll
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\obj\Debug\net8.0-windows\ruth3rf0rdium.pdb
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\obj\Debug\net8.0-windows\ruth3rf0rdium.genruntimeconfig.cache
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ruth3rf0rdium\obj\Debug\net8.0-windows\ref\ruth3rf0rdium.dll

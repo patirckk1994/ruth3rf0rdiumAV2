@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ruth3rf0rdium/1.0.0": {
+        "runtime": {
+          "ruth3rf0rdium.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ruth3rf0rdium/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

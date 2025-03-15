@@ -1,0 +1,14 @@
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\bin\Debug\net8.0-windows\ExampleScanner.exe
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\bin\Debug\net8.0-windows\ExampleScanner.deps.json
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\bin\Debug\net8.0-windows\ExampleScanner.runtimeconfig.json
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\bin\Debug\net8.0-windows\ExampleScanner.dll
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\bin\Debug\net8.0-windows\ExampleScanner.pdb
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\obj\Debug\net8.0-windows\ExampleScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\obj\Debug\net8.0-windows\ExampleScanner.AssemblyInfoInputs.cache
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\obj\Debug\net8.0-windows\ExampleScanner.AssemblyInfo.cs
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\obj\Debug\net8.0-windows\ExampleScanner.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\obj\Debug\net8.0-windows\ExampleScanner.dll
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\obj\Debug\net8.0-windows\refint\ExampleScanner.dll
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\obj\Debug\net8.0-windows\ExampleScanner.pdb
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\obj\Debug\net8.0-windows\ExampleScanner.genruntimeconfig.cache
+C:\Users\vboxuser\Dropbox\ruth3rf0rdium\ExampleScanner\obj\Debug\net8.0-windows\ref\ExampleScanner.dll
